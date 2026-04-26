@@ -15,7 +15,7 @@
 
 - 💼 I’ve completed my Master's degree in Computer Application at [Gautam Buddha University](https://www.gbu.ac.in/);
 - 💼 I’ve completed my Bachelor's degree in Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
-- 👨🏽‍💻 Full Stack Developer at [Apex Byte | IT Services](https://apexbyte.in/Team_ApexByte/);
+- 👨🏽‍💻 Software Engineer at [Web IT Squad | IT Services](https://webitsquad.com/);
 - 👨🏽‍💻 Web Development Intern at [Gautam Buddha University](https://www.gbu.ac.in/USICT/developer.html);
 - 👨🏽‍💻 Web Development Intern at [TULIP](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/);
 - 👨🏽‍💻 Java Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
